@@ -1,7 +1,7 @@
+**Updated 03.25.2018**
+
 # Finetune AlexNet with TensorFlow 1.1.0
 In this project, AlexNet finetuning was implemented with tensorflow. The final accuracy was just 65.57% with only 2 epochs. Didn't upload the dogs-vs-cats datasets and pretrained files (bvlc_alexnet.npy). Please download them from below attached urls.
-
-**Updated 03.25.2018**
 
 ## Requirements
 - Python3
