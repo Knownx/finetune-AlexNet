@@ -1,0 +1,5 @@
+TRAIN_LIST = 'D:\\Workspace\\ML\\Proj\\OpenSource\\finetune_alexnet\\train\\train.txt'
+TEST_LIST = 'D:\\Workspace\\ML\\Proj\\OpenSource\\finetune_alexnet\\test\\test.txt'
+FINETUNE_LIST = 'D:\\Workspace\\ML\\Proj\\OpenSource\\finetune_alexnet\\bvlc_alexnet.npy'
+SAVE_MODEL_PATH = 'D:\\Workspace\\ML\\Proj\\OpenSource\\finetune_alexnet\\checkpoints\\model_save.model'
+TENSORBOARD_PATH = 'D:\\Workspace\\ML\\Proj\\OpenSource\\finetune_alexnet\\tensorboard'

@@ -1,0 +1,3 @@
+model_checkpoint_path: "D:\\Workspace\\ML\\Proj\\OpenSource\\finetune_alexnet\\checkpoints\\model_save.model\\model_epoch2.ckpt"
+all_model_checkpoint_paths: "D:\\Workspace\\ML\\Proj\\OpenSource\\finetune_alexnet\\checkpoints\\model_save.model\\model_epoch1.ckpt"
+all_model_checkpoint_paths: "D:\\Workspace\\ML\\Proj\\OpenSource\\finetune_alexnet\\checkpoints\\model_save.model\\model_epoch2.ckpt"

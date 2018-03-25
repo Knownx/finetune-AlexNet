@@ -1,0 +1,420 @@
+D:\LjsProg\Anaconda\envs\pyenv35\python.exe D:/Workspace/ML/Proj/OpenSource/finetune_alexnet/finetune.py
+E c:\tf_jenkins\home\workspace\release-win\device\cpu\os\windows\tensorflow\core\framework\op_kernel.cc:943] OpKernel ('op: "BestSplits" device_type: "CPU"') for unknown op: BestSplits
+E c:\tf_jenkins\home\workspace\release-win\device\cpu\os\windows\tensorflow\core\framework\op_kernel.cc:943] OpKernel ('op: "CountExtremelyRandomStats" device_type: "CPU"') for unknown op: CountExtremelyRandomStats
+E c:\tf_jenkins\home\workspace\release-win\device\cpu\os\windows\tensorflow\core\framework\op_kernel.cc:943] OpKernel ('op: "FinishedNodes" device_type: "CPU"') for unknown op: FinishedNodes
+E c:\tf_jenkins\home\workspace\release-win\device\cpu\os\windows\tensorflow\core\framework\op_kernel.cc:943] OpKernel ('op: "GrowTree" device_type: "CPU"') for unknown op: GrowTree
+E c:\tf_jenkins\home\workspace\release-win\device\cpu\os\windows\tensorflow\core\framework\op_kernel.cc:943] OpKernel ('op: "ReinterpretStringToFloat" device_type: "CPU"') for unknown op: ReinterpretStringToFloat
+E c:\tf_jenkins\home\workspace\release-win\device\cpu\os\windows\tensorflow\core\framework\op_kernel.cc:943] OpKernel ('op: "SampleInputs" device_type: "CPU"') for unknown op: SampleInputs
+E c:\tf_jenkins\home\workspace\release-win\device\cpu\os\windows\tensorflow\core\framework\op_kernel.cc:943] OpKernel ('op: "ScatterAddNdim" device_type: "CPU"') for unknown op: ScatterAddNdim
+E c:\tf_jenkins\home\workspace\release-win\device\cpu\os\windows\tensorflow\core\framework\op_kernel.cc:943] OpKernel ('op: "TopNInsert" device_type: "CPU"') for unknown op: TopNInsert
+E c:\tf_jenkins\home\workspace\release-win\device\cpu\os\windows\tensorflow\core\framework\op_kernel.cc:943] OpKernel ('op: "TopNRemove" device_type: "CPU"') for unknown op: TopNRemove
+E c:\tf_jenkins\home\workspace\release-win\device\cpu\os\windows\tensorflow\core\framework\op_kernel.cc:943] OpKernel ('op: "TreePredictions" device_type: "CPU"') for unknown op: TreePredictions
+E c:\tf_jenkins\home\workspace\release-win\device\cpu\os\windows\tensorflow\core\framework\op_kernel.cc:943] OpKernel ('op: "UpdateFertileSlots" device_type: "CPU"') for unknown op: UpdateFertileSlots
+Initialize variables
+Load the pretrained model: D:\Workspace\ML\Proj\OpenSource\finetune_alexnet\bvlc_alexnet.npy
+2018-03-24 23:40:05.109925 Start training...
+2018-03-24 23:40:05.109925 Open Tensorboard at --logdir D:\Workspace\ML\Proj\OpenSource\finetune_alexnet\tensorboard
+Start training procedure from: 2018-03-24 23:40:05.109925
+2018-03-24 23:40:05.109925 Epoch number: 1
+Epoch: 1, Batch: 0, Training loss: 15.326536178588867
+Epoch: 1, Batch: 1, Training loss: 35.28358459472656
+Epoch: 1, Batch: 2, Training loss: 53.21774673461914
+Epoch: 1, Batch: 3, Training loss: 15.880572319030762
+Epoch: 1, Batch: 4, Training loss: 14.17437744140625
+Epoch: 1, Batch: 5, Training loss: 8.547892570495605
+Epoch: 1, Batch: 6, Training loss: 8.336295127868652
+Epoch: 1, Batch: 7, Training loss: 1.2541241645812988
+Epoch: 1, Batch: 8, Training loss: 0.9319050908088684
+Epoch: 1, Batch: 9, Training loss: 0.8940898776054382
+Epoch: 1, Batch: 10, Training loss: 0.7788408398628235
+Epoch: 1, Batch: 11, Training loss: 0.8584170341491699
+Epoch: 1, Batch: 12, Training loss: 0.7917062044143677
+Epoch: 1, Batch: 13, Training loss: 0.7543068528175354
+Epoch: 1, Batch: 14, Training loss: 0.6272234916687012
+Epoch: 1, Batch: 15, Training loss: 0.8305895328521729
+Epoch: 1, Batch: 16, Training loss: 0.8066195249557495
+Epoch: 1, Batch: 17, Training loss: 0.7818052172660828
+Epoch: 1, Batch: 18, Training loss: 0.6926328539848328
+Epoch: 1, Batch: 19, Training loss: 0.7558155059814453
+Epoch: 1, Batch: 20, Training loss: 0.7548555135726929
+Epoch: 1, Batch: 21, Training loss: 0.7005868554115295
+Epoch: 1, Batch: 22, Training loss: 0.7062302827835083
+Epoch: 1, Batch: 23, Training loss: 0.7447046041488647
+Epoch: 1, Batch: 24, Training loss: 0.6654501557350159
+Epoch: 1, Batch: 25, Training loss: 0.7457132339477539
+Epoch: 1, Batch: 26, Training loss: 0.7484333515167236
+Epoch: 1, Batch: 27, Training loss: 0.7008112668991089
+Epoch: 1, Batch: 28, Training loss: 0.7213978171348572
+Epoch: 1, Batch: 29, Training loss: 0.7117749452590942
+Epoch: 1, Batch: 30, Training loss: 0.7119441032409668
+Epoch: 1, Batch: 31, Training loss: 0.6813268065452576
+Epoch: 1, Batch: 32, Training loss: 0.7157091498374939
+Epoch: 1, Batch: 33, Training loss: 0.6900243163108826
+Epoch: 1, Batch: 34, Training loss: 0.7626264691352844
+Epoch: 1, Batch: 35, Training loss: 0.6957449316978455
+Epoch: 1, Batch: 36, Training loss: 0.6873676180839539
+Epoch: 1, Batch: 37, Training loss: 0.7004176378250122
+Epoch: 1, Batch: 38, Training loss: 0.7438046932220459
+Epoch: 1, Batch: 39, Training loss: 0.6628391742706299
+Epoch: 1, Batch: 40, Training loss: 0.7211044430732727
+Epoch: 1, Batch: 41, Training loss: 0.6699985861778259
+Epoch: 1, Batch: 42, Training loss: 0.6608836650848389
+Epoch: 1, Batch: 43, Training loss: 0.6609600782394409
+Epoch: 1, Batch: 44, Training loss: 0.6892162561416626
+Epoch: 1, Batch: 45, Training loss: 0.7047513723373413
+Epoch: 1, Batch: 46, Training loss: 0.698253870010376
+Epoch: 1, Batch: 47, Training loss: 0.705149233341217
+Epoch: 1, Batch: 48, Training loss: 0.6585768461227417
+Epoch: 1, Batch: 49, Training loss: 0.7352262735366821
+Epoch: 1, Batch: 50, Training loss: 0.6891772747039795
+Epoch: 1, Batch: 51, Training loss: 0.6929935216903687
+Epoch: 1, Batch: 52, Training loss: 0.6664078831672668
+Epoch: 1, Batch: 53, Training loss: 0.7080063819885254
+Epoch: 1, Batch: 54, Training loss: 0.6952319741249084
+Epoch: 1, Batch: 55, Training loss: 0.6942869424819946
+Epoch: 1, Batch: 56, Training loss: 0.6925475001335144
+Epoch: 1, Batch: 57, Training loss: 0.6947660446166992
+Epoch: 1, Batch: 58, Training loss: 0.6897042989730835
+Epoch: 1, Batch: 59, Training loss: 0.6518200635910034
+Epoch: 1, Batch: 60, Training loss: 0.6966181993484497
+Epoch: 1, Batch: 61, Training loss: 0.6690653562545776
+Epoch: 1, Batch: 62, Training loss: 0.7157018184661865
+Epoch: 1, Batch: 63, Training loss: 0.691658079624176
+Epoch: 1, Batch: 64, Training loss: 0.7334670424461365
+Epoch: 1, Batch: 65, Training loss: 0.719192624092102
+Epoch: 1, Batch: 66, Training loss: 0.6517741680145264
+Epoch: 1, Batch: 67, Training loss: 0.6649171710014343
+Epoch: 1, Batch: 68, Training loss: 0.7291834354400635
+Epoch: 1, Batch: 69, Training loss: 0.6551392078399658
+Epoch: 1, Batch: 70, Training loss: 0.677029013633728
+Epoch: 1, Batch: 71, Training loss: 0.6955236196517944
+Epoch: 1, Batch: 72, Training loss: 0.7009084820747375
+Epoch: 1, Batch: 73, Training loss: 0.6733054518699646
+Epoch: 1, Batch: 74, Training loss: 0.6460207104682922
+Epoch: 1, Batch: 75, Training loss: 0.6916054487228394
+Epoch: 1, Batch: 76, Training loss: 0.7227236032485962
+Epoch: 1, Batch: 77, Training loss: 0.6891884803771973
+Epoch: 1, Batch: 78, Training loss: 0.6836953163146973
+Epoch: 1, Batch: 79, Training loss: 0.6933758854866028
+Epoch: 1, Batch: 80, Training loss: 0.6678472757339478
+Epoch: 1, Batch: 81, Training loss: 0.6469143629074097
+Epoch: 1, Batch: 82, Training loss: 0.6457219123840332
+Epoch: 1, Batch: 83, Training loss: 0.6869599223136902
+Epoch: 1, Batch: 84, Training loss: 0.6519044041633606
+Epoch: 1, Batch: 85, Training loss: 0.6482049226760864
+Epoch: 1, Batch: 86, Training loss: 0.6597126722335815
+Epoch: 1, Batch: 87, Training loss: 0.6215088963508606
+Epoch: 1, Batch: 88, Training loss: 0.6414850950241089
+Epoch: 1, Batch: 89, Training loss: 0.6782939434051514
+Epoch: 1, Batch: 90, Training loss: 0.7058191895484924
+Epoch: 1, Batch: 91, Training loss: 0.6864042282104492
+Epoch: 1, Batch: 92, Training loss: 0.6219599843025208
+Epoch: 1, Batch: 93, Training loss: 0.6950134038925171
+Epoch: 1, Batch: 94, Training loss: 0.650758683681488
+Epoch: 1, Batch: 95, Training loss: 0.6092024445533752
+Epoch: 1, Batch: 96, Training loss: 0.708673357963562
+Epoch: 1, Batch: 97, Training loss: 0.6550531387329102
+Epoch: 1, Batch: 98, Training loss: 0.639802098274231
+Epoch: 1, Batch: 99, Training loss: 0.6601954698562622
+Epoch: 1, Batch: 100, Training loss: 0.672598123550415
+Epoch: 1, Batch: 101, Training loss: 0.6473566293716431
+Epoch: 1, Batch: 102, Training loss: 0.7187644243240356
+Epoch: 1, Batch: 103, Training loss: 0.6352206468582153
+Epoch: 1, Batch: 104, Training loss: 0.6272806525230408
+Epoch: 1, Batch: 105, Training loss: 0.7228078842163086
+Epoch: 1, Batch: 106, Training loss: 0.7008703351020813
+Epoch: 1, Batch: 107, Training loss: 0.7153058648109436
+Epoch: 1, Batch: 108, Training loss: 0.6614418625831604
+Epoch: 1, Batch: 109, Training loss: 0.6962205171585083
+Epoch: 1, Batch: 110, Training loss: 0.692146360874176
+Epoch: 1, Batch: 111, Training loss: 0.6713654398918152
+Epoch: 1, Batch: 112, Training loss: 0.7327330708503723
+Epoch: 1, Batch: 113, Training loss: 0.640941858291626
+Epoch: 1, Batch: 114, Training loss: 0.6637307405471802
+Epoch: 1, Batch: 115, Training loss: 0.6307872533798218
+Epoch: 1, Batch: 116, Training loss: 0.6825235486030579
+Epoch: 1, Batch: 117, Training loss: 0.7049492001533508
+Epoch: 1, Batch: 118, Training loss: 0.6130273938179016
+Epoch: 1, Batch: 119, Training loss: 0.6871368288993835
+Epoch: 1, Batch: 120, Training loss: 0.6725645661354065
+Epoch: 1, Batch: 121, Training loss: 0.6675634384155273
+Epoch: 1, Batch: 122, Training loss: 0.7255439758300781
+Epoch: 1, Batch: 123, Training loss: 0.6429014801979065
+Epoch: 1, Batch: 124, Training loss: 0.6240609288215637
+Epoch: 1, Batch: 125, Training loss: 0.632630467414856
+Epoch: 1, Batch: 126, Training loss: 0.6763807535171509
+Epoch: 1, Batch: 127, Training loss: 0.6942059397697449
+Epoch: 1, Batch: 128, Training loss: 0.6595602035522461
+Epoch: 1, Batch: 129, Training loss: 0.6315670013427734
+Epoch: 1, Batch: 130, Training loss: 0.63860023021698
+Epoch: 1, Batch: 131, Training loss: 0.651526927947998
+Epoch: 1, Batch: 132, Training loss: 0.6495169401168823
+Epoch: 1, Batch: 133, Training loss: 0.6308519244194031
+Epoch: 1, Batch: 134, Training loss: 0.6627551317214966
+Epoch: 1, Batch: 135, Training loss: 0.6655610799789429
+Epoch: 1, Batch: 136, Training loss: 0.4610801339149475
+2018-03-25 00:52:22.722058 Start validation
+Current Accuracy: 0.6328125
+Current Accuracy: 0.6328125
+Current Accuracy: 0.6197916666666666
+Current Accuracy: 0.61328125
+Current Accuracy: 0.61875
+Current Accuracy: 0.6393229166666666
+Current Accuracy: 0.6383928571428571
+Current Accuracy: 0.6279296875
+Current Accuracy: 0.625
+Current Accuracy: 0.63046875
+Current Accuracy: 0.6313920454545454
+Current Accuracy: 0.6328125
+Current Accuracy: 0.6358173076923077
+Current Accuracy: 0.6311383928571429
+Current Accuracy: 0.6239583333333333
+Current Accuracy: 0.62353515625
+Current Accuracy: 0.6227022058823529
+Current Accuracy: 0.6202256944444444
+Current Accuracy: 0.6221217105263158
+Current Accuracy: 0.62578125
+Current Accuracy: 0.6223958333333334
+Current Accuracy: 0.625
+Current Accuracy: 0.6266983695652174
+Current Accuracy: 0.6236979166666666
+Current Accuracy: 0.6265625
+Current Accuracy: 0.6265024038461539
+Current Accuracy: 0.6232638888888888
+Current Accuracy: 0.6258370535714286
+Current Accuracy: 0.6271551724137931
+Current Accuracy: 0.6296875
+Current Accuracy: 0.6287802419354839
+Current Accuracy: 0.630126953125
+Current Accuracy: 0.6325757575757576
+Current Accuracy: 0.6330422794117647
+Current Accuracy: 0.6330357142857143
+Current Accuracy: 0.6345486111111112
+Current Accuracy: 0.635768581081081
+Current Accuracy: 0.6350740131578947
+Current Accuracy: 0.6354166666666666
+Current Accuracy: 0.6369140625
+Current Accuracy: 0.6373856707317073
+Current Accuracy: 0.6370907738095238
+Current Accuracy: 0.637718023255814
+Current Accuracy: 0.6388494318181818
+Current Accuracy: 0.6388888888888888
+Current Accuracy: 0.6370584239130435
+Current Accuracy: 0.636469414893617
+Current Accuracy: 0.63720703125
+Current Accuracy: 0.6369579081632653
+Current Accuracy: 0.63765625
+Current Accuracy: 0.6372549019607843
+Current Accuracy: 0.6380709134615384
+Current Accuracy: 0.6370872641509434
+Current Accuracy: 0.6371527777777778
+Current Accuracy: 0.6356534090909091
+Current Accuracy: 0.6361607142857143
+Current Accuracy: 0.6367872807017544
+Current Accuracy: 0.6372575431034483
+Current Accuracy: 0.6402277542372882
+2018-03-25 01:01:34.604626 Validation Accuracy = 0.6402
+2018-03-25 01:01:34.604626 Saving checkpoint of model...
+2018-03-25 01:01:35.729519 Model checkpoint saved at D:\Workspace\ML\Proj\OpenSource\finetune_alexnet\checkpoints\model_save.model\model_epoch1.ckpt
+2018-03-25 01:01:35.730520 Epoch number: 2
+Epoch: 2, Batch: 0, Training loss: 0.6528935432434082
+Epoch: 2, Batch: 1, Training loss: 0.6900466680526733
+Epoch: 2, Batch: 2, Training loss: 0.6108568906784058
+Epoch: 2, Batch: 3, Training loss: 0.65647953748703
+Epoch: 2, Batch: 4, Training loss: 0.6176789999008179
+Epoch: 2, Batch: 5, Training loss: 0.711898922920227
+Epoch: 2, Batch: 6, Training loss: 0.6423101425170898
+Epoch: 2, Batch: 7, Training loss: 0.6261346936225891
+Epoch: 2, Batch: 8, Training loss: 0.6610061526298523
+Epoch: 2, Batch: 9, Training loss: 0.6811925768852234
+Epoch: 2, Batch: 10, Training loss: 0.6894879341125488
+Epoch: 2, Batch: 11, Training loss: 0.6485565900802612
+Epoch: 2, Batch: 12, Training loss: 0.6321499943733215
+Epoch: 2, Batch: 13, Training loss: 0.700046181678772
+Epoch: 2, Batch: 14, Training loss: 0.5759574174880981
+Epoch: 2, Batch: 15, Training loss: 0.6714773178100586
+Epoch: 2, Batch: 16, Training loss: 0.6596419811248779
+Epoch: 2, Batch: 17, Training loss: 0.6620621681213379
+Epoch: 2, Batch: 18, Training loss: 0.6358878016471863
+Epoch: 2, Batch: 19, Training loss: 0.6461062431335449
+Epoch: 2, Batch: 20, Training loss: 0.6255499720573425
+Epoch: 2, Batch: 21, Training loss: 0.6400377750396729
+Epoch: 2, Batch: 22, Training loss: 0.6517825126647949
+Epoch: 2, Batch: 23, Training loss: 0.6957151889801025
+Epoch: 2, Batch: 24, Training loss: 0.6441200971603394
+Epoch: 2, Batch: 25, Training loss: 0.6081217527389526
+Epoch: 2, Batch: 26, Training loss: 0.6364206671714783
+Epoch: 2, Batch: 27, Training loss: 0.6505395174026489
+Epoch: 2, Batch: 28, Training loss: 0.6308083534240723
+Epoch: 2, Batch: 29, Training loss: 0.6498426198959351
+Epoch: 2, Batch: 30, Training loss: 0.6296515464782715
+Epoch: 2, Batch: 31, Training loss: 0.6291049122810364
+Epoch: 2, Batch: 32, Training loss: 0.6547896862030029
+Epoch: 2, Batch: 33, Training loss: 0.6706669330596924
+Epoch: 2, Batch: 34, Training loss: 0.6760864853858948
+Epoch: 2, Batch: 35, Training loss: 0.6078561544418335
+Epoch: 2, Batch: 36, Training loss: 0.6319912672042847
+Epoch: 2, Batch: 37, Training loss: 0.6502957344055176
+Epoch: 2, Batch: 38, Training loss: 0.6669856905937195
+Epoch: 2, Batch: 39, Training loss: 0.6334091424942017
+Epoch: 2, Batch: 40, Training loss: 0.6085557341575623
+Epoch: 2, Batch: 41, Training loss: 0.6108936071395874
+Epoch: 2, Batch: 42, Training loss: 0.6435257196426392
+Epoch: 2, Batch: 43, Training loss: 0.6257879137992859
+Epoch: 2, Batch: 44, Training loss: 0.6550986170768738
+Epoch: 2, Batch: 45, Training loss: 0.6547440886497498
+Epoch: 2, Batch: 46, Training loss: 0.7010535001754761
+Epoch: 2, Batch: 47, Training loss: 0.7091286182403564
+Epoch: 2, Batch: 48, Training loss: 0.6124573945999146
+Epoch: 2, Batch: 49, Training loss: 0.6584270000457764
+Epoch: 2, Batch: 50, Training loss: 0.6512446999549866
+Epoch: 2, Batch: 51, Training loss: 0.6418420076370239
+Epoch: 2, Batch: 52, Training loss: 0.6713486909866333
+Epoch: 2, Batch: 53, Training loss: 0.6894465684890747
+Epoch: 2, Batch: 54, Training loss: 0.6279600858688354
+Epoch: 2, Batch: 55, Training loss: 0.6287939548492432
+Epoch: 2, Batch: 56, Training loss: 0.6394269466400146
+Epoch: 2, Batch: 57, Training loss: 0.6348509788513184
+Epoch: 2, Batch: 58, Training loss: 0.6999085545539856
+Epoch: 2, Batch: 59, Training loss: 0.5901113152503967
+Epoch: 2, Batch: 60, Training loss: 0.6621309518814087
+Epoch: 2, Batch: 61, Training loss: 0.6145039200782776
+Epoch: 2, Batch: 62, Training loss: 0.702584445476532
+Epoch: 2, Batch: 63, Training loss: 0.6595612168312073
+Epoch: 2, Batch: 64, Training loss: 0.6492582559585571
+Epoch: 2, Batch: 65, Training loss: 0.6252763271331787
+Epoch: 2, Batch: 66, Training loss: 0.6420193910598755
+Epoch: 2, Batch: 67, Training loss: 0.6039559841156006
+Epoch: 2, Batch: 68, Training loss: 0.6550549268722534
+Epoch: 2, Batch: 69, Training loss: 0.63602614402771
+Epoch: 2, Batch: 70, Training loss: 0.5945254564285278
+Epoch: 2, Batch: 71, Training loss: 0.6327754259109497
+Epoch: 2, Batch: 72, Training loss: 0.6322512030601501
+Epoch: 2, Batch: 73, Training loss: 0.6087720990180969
+Epoch: 2, Batch: 74, Training loss: 0.6002947092056274
+Epoch: 2, Batch: 75, Training loss: 0.6386035084724426
+Epoch: 2, Batch: 76, Training loss: 0.6540333032608032
+Epoch: 2, Batch: 77, Training loss: 0.6720050573348999
+Epoch: 2, Batch: 78, Training loss: 0.6764809489250183
+Epoch: 2, Batch: 79, Training loss: 0.6598678231239319
+Epoch: 2, Batch: 80, Training loss: 0.6254047155380249
+Epoch: 2, Batch: 81, Training loss: 0.6229384541511536
+Epoch: 2, Batch: 82, Training loss: 0.5939323902130127
+Epoch: 2, Batch: 83, Training loss: 0.6707615256309509
+Epoch: 2, Batch: 84, Training loss: 0.6181368827819824
+Epoch: 2, Batch: 85, Training loss: 0.6552528142929077
+Epoch: 2, Batch: 86, Training loss: 0.6157373189926147
+Epoch: 2, Batch: 87, Training loss: 0.6002525091171265
+Epoch: 2, Batch: 88, Training loss: 0.6119046211242676
+Epoch: 2, Batch: 89, Training loss: 0.6421475410461426
+Epoch: 2, Batch: 90, Training loss: 0.6691019535064697
+Epoch: 2, Batch: 91, Training loss: 0.684287428855896
+Epoch: 2, Batch: 92, Training loss: 0.6625782251358032
+Epoch: 2, Batch: 93, Training loss: 0.6087491512298584
+Epoch: 2, Batch: 94, Training loss: 0.6006036400794983
+Epoch: 2, Batch: 95, Training loss: 0.6514886617660522
+Epoch: 2, Batch: 96, Training loss: 0.6570855975151062
+Epoch: 2, Batch: 97, Training loss: 0.6409202218055725
+Epoch: 2, Batch: 98, Training loss: 0.6310651302337646
+Epoch: 2, Batch: 99, Training loss: 0.6622192859649658
+Epoch: 2, Batch: 100, Training loss: 0.623305082321167
+Epoch: 2, Batch: 101, Training loss: 0.6050650477409363
+Epoch: 2, Batch: 102, Training loss: 0.7008036375045776
+Epoch: 2, Batch: 103, Training loss: 0.6097435355186462
+Epoch: 2, Batch: 104, Training loss: 0.6213304996490479
+Epoch: 2, Batch: 105, Training loss: 0.6774764657020569
+Epoch: 2, Batch: 106, Training loss: 0.6951509714126587
+Epoch: 2, Batch: 107, Training loss: 0.686230480670929
+Epoch: 2, Batch: 108, Training loss: 0.6283071041107178
+Epoch: 2, Batch: 109, Training loss: 0.6504650115966797
+Epoch: 2, Batch: 110, Training loss: 0.6996064186096191
+Epoch: 2, Batch: 111, Training loss: 0.6513407230377197
+Epoch: 2, Batch: 112, Training loss: 0.692969560623169
+Epoch: 2, Batch: 113, Training loss: 0.6079541444778442
+Epoch: 2, Batch: 114, Training loss: 0.6478384733200073
+Epoch: 2, Batch: 115, Training loss: 0.6101604700088501
+Epoch: 2, Batch: 116, Training loss: 0.6610288619995117
+Epoch: 2, Batch: 117, Training loss: 0.6508659720420837
+Epoch: 2, Batch: 118, Training loss: 0.5874660015106201
+Epoch: 2, Batch: 119, Training loss: 0.6942041516304016
+Epoch: 2, Batch: 120, Training loss: 0.6658037900924683
+Epoch: 2, Batch: 121, Training loss: 0.6614711284637451
+Epoch: 2, Batch: 122, Training loss: 0.6560927033424377
+Epoch: 2, Batch: 123, Training loss: 0.6127883195877075
+Epoch: 2, Batch: 124, Training loss: 0.6079753637313843
+Epoch: 2, Batch: 125, Training loss: 0.6370058059692383
+Epoch: 2, Batch: 126, Training loss: 0.6684643030166626
+Epoch: 2, Batch: 127, Training loss: 0.6724247932434082
+Epoch: 2, Batch: 128, Training loss: 0.6487313508987427
+Epoch: 2, Batch: 129, Training loss: 0.6241341829299927
+Epoch: 2, Batch: 130, Training loss: 0.6561834812164307
+Epoch: 2, Batch: 131, Training loss: 0.61651611328125
+Epoch: 2, Batch: 132, Training loss: 0.5795215368270874
+Epoch: 2, Batch: 133, Training loss: 0.6153221726417542
+Epoch: 2, Batch: 134, Training loss: 0.6413492560386658
+Epoch: 2, Batch: 135, Training loss: 0.6022780537605286
+Epoch: 2, Batch: 136, Training loss: 0.4570446014404297
+2018-03-25 02:13:57.269659 Start validation
+Current Accuracy: 0.671875
+Current Accuracy: 0.671875
+Current Accuracy: 0.6666666666666666
+Current Accuracy: 0.646484375
+Current Accuracy: 0.65
+Current Accuracy: 0.6653645833333334
+Current Accuracy: 0.6662946428571429
+Current Accuracy: 0.66015625
+Current Accuracy: 0.6571180555555556
+Current Accuracy: 0.66171875
+Current Accuracy: 0.6619318181818182
+Current Accuracy: 0.6608072916666666
+Current Accuracy: 0.6598557692307693
+Current Accuracy: 0.65625
+Current Accuracy: 0.6453125
+Current Accuracy: 0.6455078125
+Current Accuracy: 0.6443014705882353
+Current Accuracy: 0.6423611111111112
+Current Accuracy: 0.6447368421052632
+Current Accuracy: 0.649609375
+Current Accuracy: 0.6469494047619048
+Current Accuracy: 0.6484375
+Current Accuracy: 0.6480978260869565
+Current Accuracy: 0.646484375
+Current Accuracy: 0.648125
+Current Accuracy: 0.6493389423076923
+Current Accuracy: 0.6458333333333334
+Current Accuracy: 0.6489955357142857
+Current Accuracy: 0.6487068965517241
+Current Accuracy: 0.6515625
+Current Accuracy: 0.6502016129032258
+Current Accuracy: 0.651123046875
+Current Accuracy: 0.6519886363636364
+Current Accuracy: 0.6518841911764706
+Current Accuracy: 0.6520089285714286
+Current Accuracy: 0.6525607638888888
+Current Accuracy: 0.653293918918919
+Current Accuracy: 0.6527549342105263
+Current Accuracy: 0.6534455128205128
+Current Accuracy: 0.6546875
+Current Accuracy: 0.6551067073170732
+Current Accuracy: 0.6542038690476191
+Current Accuracy: 0.6549781976744186
+Current Accuracy: 0.6566051136363636
+Current Accuracy: 0.6569444444444444
+Current Accuracy: 0.6554008152173914
+Current Accuracy: 0.6555851063829787
+Current Accuracy: 0.6555989583333334
+Current Accuracy: 0.654655612244898
+Current Accuracy: 0.655
+Current Accuracy: 0.6541053921568627
+Current Accuracy: 0.6545973557692307
+Current Accuracy: 0.6533018867924528
+Current Accuracy: 0.6535011574074074
+Current Accuracy: 0.6522727272727272
+Current Accuracy: 0.6526227678571429
+Current Accuracy: 0.6524122807017544
+Current Accuracy: 0.6530172413793104
+Current Accuracy: 0.6557203389830508
+2018-03-25 02:23:04.868280 Validation Accuracy = 0.6557
+2018-03-25 02:23:04.868280 Saving checkpoint of model...
+2018-03-25 02:23:06.007641 Model checkpoint saved at D:\Workspace\ML\Proj\OpenSource\finetune_alexnet\checkpoints\model_save.model\model_epoch2.ckpt
+2018-03-25 02:23:06.008641 All finished!
